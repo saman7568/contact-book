@@ -1,3 +1,7 @@
+NAME - SAMANPREET BAWA
+STUDENT ID - 90541145816
+
+
 Contact Book 📒
 A simple contact book web application built with Vue 3, Vue Router 4, and Vite.
 Data is stored in the browser's localStorage so it persists between sessions.
